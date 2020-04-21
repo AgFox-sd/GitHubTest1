@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * 编写SpringBoot启动类
  */
 @SpringBootApplication
-@MapperScan("com.zp.mapper")
+@MapperScan("com.teams.mapper")
 public class Application {
 
 	public static void main(String[] args) {
